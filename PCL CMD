@@ -3,7 +3,7 @@
 ```
     sudo apt-get install libpcl-dev
 
-    sudo apt-get install libproj
+    sudo apt-get install libproj-dev
 ```
 
 # Cmake
